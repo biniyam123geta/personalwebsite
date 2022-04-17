@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Biniyam Getaneh",
+    "occupation": "Full Stack Software Developer",
+    "description": "Experienced  Software developer, fast and eager learner with a good analytical thinking, and has good interpersonal skills. Strives to learn new technologies.",
+    "image": "profilepic.jpg",
+    "bio": "Experienced Software Developer with a demonstrated history of working in the computer software industry. Skilled in Angular, React,Node,Asp,Flutter and Android Native. Strong Development professional with a Bsc focused in Computer Science from University of Gondar.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "binicreative@gmail.com",
+    "phone": "0929039713",
+    "address": {
+      "street": "Ethiopia",
+      "city": "Ethiopian",
+      "state": "Addis ababa",
+      "zip": "0000"
+    },
+    "website": "http://www.biniyamgetaneh.com",
+    "resumedownload": "https://drive.google.com/u/1/uc?id=1IqWixJFjc-5DIE2R_aQp1fBSc8vYJJjw&export=download",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/biniyamgetaneh5",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/biniyam-getaneh-119133165",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/biniyam123geta",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a Biniyam and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "Unversty Of Gondar",
+        "degree": "Computer Science",
+        "graduated": "Jan 2021",
+        "description": "Graduated from Gondar Universty with 3.46 GPA."
+      }
+    ],
+    "work": [
+      {
+        "company": "XOKA IT solution",
+        "title": "Angular and Asp.Net developer",
+        "years": "Jan 2021 - Aug 2021",
+        "description": "Building ERP Front-End using Angular, Develop web application using a mixture of Cordova and Angular, Web Api using ASP.NET core"
+      },
+      {
+        "company": "Lersha App",
+        "title": "Full Stack Developer",
+        "years": "Aug 2021 - Present ",
+        "description": "Android Application Development using Native java,Building Rest API using Node.js,Dashboard design using Angular"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Android development",
+        "level": "90%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      },
+      {
+        "name": "Node",
+        "level": "80%"
+      },
+      {
+        "name": "ASP.NET",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gulit-ጉሊት",
+        "category": "Gulit-ጉሊት is Online shopping applicationwhich allows consumers to directly buy goods or services from a seller over the Internet using a mobile app",
+        "image": "shoplogo.png",
+        "url": "https://play.google.com/store/apps/details?id=com.gulitshopping.shop"
+      },
+      {
+        "title": "Lersha App",
+        "category": "Lersha provides a one-stop digital service to small holder farmers",
+        "image": "lersha.svg",
+        "url": "https://play.google.com/store/apps/details?id=com.greenagro.lersha&hl=en&gl=US"
+      }
+    ]
+  }
+}
